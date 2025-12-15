@@ -1,0 +1,3 @@
+ALUMNO i42merad -> TUTOR j23perez : Hola
+ALUMNO i42merad -> TUTOR j23perez : Hola tutor, tengo dudas.
+TUTOR j23perez -> ALUMNO i42merad : Claro, dime tus dudas.
