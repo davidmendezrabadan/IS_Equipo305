@@ -1,0 +1,1 @@
+ALERTA alumno=a56gomez creador=m45ruiz "Faltó a clase sin justificar"
